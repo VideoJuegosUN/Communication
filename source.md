@@ -16,7 +16,7 @@
 
 Slide:
 
-# Comunicación desde los Video Juegos
+# Comunicación desde los Video Juegos 
 
 Profesor:
 
@@ -40,7 +40,7 @@ medios tradicionales y nuevos medios.<!-- .element: class="fragment" data-fragme
 * Entablando un diálogo entre estos medios desde
 contenidos, formas de narración y técnicas de
 marketing, esto se explica con la teoría Remediation,<!-- .element: class="fragment" data-fragment-index="5"-->
-
+ 
 Slide:
 
 ###VIDEOJUEGOS COMO MEDIO DE COMUNICACIÓN (II)
